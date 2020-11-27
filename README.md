@@ -1,5 +1,5 @@
-# freecodecamp-projects
-Just colletion of seperate freecodecamp projects
+# FreeCodeCamp Front-End Projects 
+Collection of seperate freecodecamp project repos.
 
 https://github.com/pdouu/fcc-pomodoro-clock
 
