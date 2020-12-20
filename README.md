@@ -1,7 +1,7 @@
 ![freecodecamp](https://miro.medium.com/max/3000/1*USVOsF5qZ-lwf3OEmDZpJw.png)
 # FreeCodeCamp Front-End Projects 
 
-Collection of seperate FreeCodeCamp project repos. All created using React.
+Collection of seperate FreeCodeCamp front-end projects i've worked on. All created using React.
 
 ### Pomodoro Clock
 - https://github.com/yusufcmlt/fcc-pomodoro-clock
