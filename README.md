@@ -2,18 +2,17 @@
 
 - Collection of seperate FreeCodeCamp project repos. All created using React.
 
-## Pomodoro Clock
+### Pomodoro Clock
+- https://github.com/yusufcmlt/fcc-pomodoro-clock
 
-https://github.com/yusufcmlt/fcc-pomodoro-clock
+### Calculator
+- https://github.com/yusufcmlt/fcc-react-calculator
 
-## Calculator
-https://github.com/yusufcmlt/fcc-react-calculator
+### Drum Machine
+- https://github.com/yusufcmlt/fcc-drum-machine
 
-## Drum Machine
-https://github.com/yusufcmlt/fcc-drum-machine
+### Markdown Previewer
+- https://github.com/yusufcmlt/markdown-previewer
 
-## Markdown Previewer
-https://github.com/yusufcmlt/markdown-previewer
-
-## Random Quote Machine
-https://github.com/yusufcmlt/random-quote-machine
+### Random Quote Machine
+- https://github.com/yusufcmlt/random-quote-machine
